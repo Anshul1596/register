@@ -1,9 +1,12 @@
 {
+  "description": "Link to my portfolio site.",
+  "repo": "https://github.com/Anshul1596/Anshul1596.github.io",
   "owner": {
     "username": "Anshul",
-    "email": "anshulsinghsajwan1596@gmail.com"
+    "email": "anshulsinghsajwan1596@gmail.com",
+    "twitter": "Vipulttrs"
   },
   "record": {
-    "CNAME": "anshul.github.io"
+    "CNAME": "Anshul1596.github.io"
   }
 }
